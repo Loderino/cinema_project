@@ -1,16 +1,18 @@
 # cinema_project
 order/my first python GUI
 
-'+ - realised
-= - not ready yet
-? - required testing
+signs:
+* '+' - realised
+* = - not ready yet
+* ? - required testing
+
 
 plans:
 * cinemas_page
-  - icons +
+  - icons +?
   - names +
   - rating =
-  - links +
+  - links +?
 * cinema_information_page
   - icon =
   - name =
@@ -18,7 +20,7 @@ plans:
   - actors =
   - genres =
 * actors_page
-  - icons +
+  - icons +?
   - names +
   - links =
 * actor_information_page
