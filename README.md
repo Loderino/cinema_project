@@ -1,7 +1,7 @@
 # cinema_project
 order/my first python GUI
 
-+ - realised
+'+ - realised
 = - not ready yet
 ? - required testing
 
