@@ -11,21 +11,21 @@ plans:
 * cinemas_page
   - icons +?
   - names +
-  - rating =
-  - links +?
+  - rating +
+  - links +
 * cinema_information_page
-  - icon =
-  - name =
-  - rating =
-  - actors =
-  - genres =
+  - icon +?
+  - name +
+  - rating +
+  - actors +
+  - genres +
 * actors_page
   - icons +?
   - names +
-  - links =
+  - links +
 * actor_information_page
-  - icon =
-  - name =
-  - cinemas =
+  - icon +?
+  - name +
+  - cinemas +
 * add_cinema =
 * add_actor =
