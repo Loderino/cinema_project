@@ -9,23 +9,26 @@ signs:
 
 plans:
 * cinemas_page
-  - icons +?
+  - icons +
   - names +
   - rating +
   - links +
 * cinema_information_page
-  - icon +?
+  - icon +
   - name +
   - rating +
   - actors +
   - genres +
 * actors_page
-  - icons +?
+  - icons +
   - names +
   - links +
 * actor_information_page
-  - icon +?
+  - icon +
   - name +
   - cinemas +
-* add_cinema =
-* add_actor =
+* add_cinema +
+* add_actor +
+
+functions:
+...
