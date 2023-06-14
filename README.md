@@ -31,4 +31,5 @@ plans:
 * add_actor +
 
 functions:
-...
+find films by name
+save and load files
